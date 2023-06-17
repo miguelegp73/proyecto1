@@ -76,7 +76,7 @@ button{
     border: none;
     font-size: 20px;
 }
-.contacto{
+#contacto{
     background-color: rgba(175, 89, 158, 0.3);
     border-radius: 5%;
     color:#0f0f0f;
